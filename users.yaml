@@ -1,0 +1,15 @@
+credentials:
+  usernames:
+    admin:
+      name: admin
+      password: admin123
+      role: premium
+    demo:
+      name: demo
+      password: demo123
+      role: free
+
+cookie:
+  expiry_days: 7
+  key: radar_eleitoral_sc_secret_key
+  name: radar_eleitoral_cookie
